@@ -1,0 +1,9 @@
+{
+  "name": "tweet_sns",
+  "private": true,
+  "dependencies": {
+    "-": "0.0.1",
+    "heroku": "^7.59.0",
+    "i": "^0.3.6"
+  }
+}
